@@ -1,12 +1,25 @@
-#### Hello, world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 <div align=center>
 
-## HYOJOO AGNES JEONG
+  ## HYOJOO AGNES JEONG
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAGG-J&count_bg=%23868686&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hja824)](https://solved.ac/hja824) 
 
+#### Hello, world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
+
+I'm a junior developer on a mission to create, learn, and make a difference.<br>
+With a solid grasp of coding fundamentals and an unwavering drive,<br>
+I'm ready to tackle new opportunities and grow in the ever-evolving tech landscape.
+<br>
 <br>
 
-### ✨ Tech Stack ✨
+### ✨ CONTACT ✨
+<a href="mailto:hyojooagnes824@gmail.com">
+<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/hyojoo_j/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+<br>
+<br>
+
+### ✨ TECH STACK ✨
 
 #### Platforms & Languages
 
@@ -43,12 +56,10 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0133AD?style=flat&logo=Docker&logoColor=white">
 
-<br>
 
-### ✨ contact ✨
-<a href="mailto:hyojooagnes824@gmail.com">
-<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/hyojoo_j/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-<br><br>
+<br>
+<br>
+<br>
 </div>
+
+***
